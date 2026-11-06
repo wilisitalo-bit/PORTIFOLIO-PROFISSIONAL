@@ -2,7 +2,7 @@
 
 ### 🚀 Meu Portfólio Profissional
 
-[![Acessar Portfólio](https://img.shields.io/badge/Acessar_Portfólio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](portifolio-profissional-wilis-italo.netlify.app)
+[![Acessar Portfólio](https://img.shields.io/badge/Acessar_Portfólio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://portifolio-profissional-wilis-italo.netlify.app/)
 
 </div>
 
